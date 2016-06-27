@@ -1,2 +1,4 @@
-change for rebase in master
+master pull conflict in 1st.txt
+
+
 
